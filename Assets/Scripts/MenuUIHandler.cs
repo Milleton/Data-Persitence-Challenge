@@ -9,6 +9,7 @@ public class MenuUIHandler : MonoBehaviour
     //This is the handler of the main menu scene
 
     [SerializeField] Text PlayerNameInput;
+
     // Start is called before the first frame update
     void Start()
     {
